@@ -189,10 +189,7 @@ section.hero button.demoBtn:hover {
   padding: 3em;
 }
 
-.open-nav {
-  -webkit-transform: translateX(0%);
-          transform: translateX(0%);
-}
+
 
 @media only screen and (min-width: 680px) {
   body {
